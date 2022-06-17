@@ -11,7 +11,7 @@ const blogsRouter = require('./routes/blogsRouter')
 
 
 const app = express();
-const PORT = 2001;
+const PORT = process.env.PORT || 2001;
 
 
 app.use(express.json())
