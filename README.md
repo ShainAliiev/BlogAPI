@@ -10,4 +10,6 @@
 
 ### Run app
 
-###### install and launch P use command "nodemon server.js" in VS Code,
+- Install and launch 'Postman Application'.
+
+- Use command "nodemon server.js" in VS Code,
