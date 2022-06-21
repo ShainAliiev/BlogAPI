@@ -2,4 +2,4 @@
 
 ##### This is an example of a Blog API.
 
-##### Thr
+##### The application is contained "BLOGAPI" folder
