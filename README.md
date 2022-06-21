@@ -1,12 +1,12 @@
 # Blog API
 
-###### This is an example of a Blog API.
+- This is an example of a Blog API.
 
-###### The application is contained within "BLOGAPI" folder.
+* The application is contained within "BLOGAPI" folder.
 
 ### Install
 
-###### Doesn't need installation
+- Doesn't need installation
 
 ### Run app
 
