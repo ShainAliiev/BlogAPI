@@ -16,11 +16,11 @@
 
 ### NPM packages used
 
-- "bcrypt": "^5.0.1",
-  "dotenv": "^16.0.1",
-  "express": "^4.18.1",
-  "express-validator": "^6.14.1",
-  "helmet": "^5.1.0",
-  "jsonwebtoken": "^8.5.1",
-  "mongoose": "^6.3.8",
-  "morgan": "^1.10.0"
+- "bcrypt",
+  "dotenv",
+  "express",
+  "express-validator",
+  "helmet",
+  "jsonwebtoken",
+  "mongoose",
+  "morgan"
